@@ -1,1 +1,1 @@
-# Syscodes network administration app
+# Syscodes network administration app.
